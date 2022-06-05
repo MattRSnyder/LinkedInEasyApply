@@ -14,8 +14,8 @@ A tool to automatically apply for jobs on LinkedIn utilizing Selenium and Tkinte
 DOWNLOAD Unzip the .zip file and start LinkedInEasyApplyBot.exe with a double click. You may not be able to see the .exe. Don't worry, usually it's the file with the icon.
 
 ## FAQ
-**How do I know it's working?**
-The app will show console output at the bottom while applying to jobs and it opens a Chrome browser to do the job application automation so you can see it applying in realtime.
+**How do I know it's working?**<br>
+The app will show console output at the bottom while applying to jobs and it opens a Chrome browser to do the job application automation so you can see it applying in realtime.<br>
 ![172074839-17d185c5-e53f-40db-9780-f76c71e2d8e5](https://user-images.githubusercontent.com/66499256/172075541-98645bda-d92b-4af7-bc1e-22d5a1fe975e.png)
 
 **What do I do if I get an error?**
