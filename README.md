@@ -2,10 +2,10 @@
 
 A tool to automatically apply for jobs on LinkedIn utilizing Selenium and Tkinter for GUI.
 
-# Getting Started
-Prerequisites & Installation
-Windows 10 or higher works best
-Make sure you have Google Chrome installed (any version will work)
+## Getting Started
+**Prerequisites & Installation**
+- Windows 10 or higher works best
+- Make sure you have Google Chrome installed (any version will work)
 
 ![image](https://user-images.githubusercontent.com/66499256/172074784-1709f3f5-257e-4518-8c9d-c68dd2453314.png)
 ![image](https://user-images.githubusercontent.com/66499256/172074744-668d3c77-5c52-4110-a4db-42b388300995.png)
