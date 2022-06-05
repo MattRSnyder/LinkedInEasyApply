@@ -2,7 +2,10 @@
 
 A tool to automatically apply for jobs on LinkedIn utilizing Selenium and Tkinter for GUI.
 
-![172074744-668d3c77-5c52-4110-a4db-42b388300995](https://user-images.githubusercontent.com/66499256/172075355-962dfef1-5f35-4aba-a6c3-e0d2c814073e.png)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/66499256/172075409-ae69ec71-3ae0-4694-b76b-f694cc8705cd.png)" />
+</p>
+![172074744-668d3c77-5c52-4110-a4db-42b388300995](https://user-images.githubusercontent.com/66499256/172075409-ae69ec71-3ae0-4694-b76b-f694cc8705cd.png)
 
 ## Getting Started
 **Prerequisites & Installation**
