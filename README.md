@@ -2,6 +2,8 @@
 
 A tool to automatically apply for jobs on LinkedIn utilizing Selenium and Tkinter for GUI.
 
+![172074744-668d3c77-5c52-4110-a4db-42b388300995](https://user-images.githubusercontent.com/66499256/172075355-962dfef1-5f35-4aba-a6c3-e0d2c814073e.png)
+
 ## Getting Started
 **Prerequisites & Installation**
 - Windows 10 or higher works best
@@ -13,8 +15,4 @@ DOWNLOAD Unzip the .zip file and start LinkedInEasyApplyBot.exe with a double cl
 
 ## FAQ
 
-![image](https://user-images.githubusercontent.com/66499256/172074784-1709f3f5-257e-4518-8c9d-c68dd2453314.png)
-![image](https://user-images.githubusercontent.com/66499256/172074744-668d3c77-5c52-4110-a4db-42b388300995.png)
-
-![image](https://user-images.githubusercontent.com/66499256/172074839-17d185c5-e53f-40db-9780-f76c71e2d8e5.png)
 
