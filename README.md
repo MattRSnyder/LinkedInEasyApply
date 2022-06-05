@@ -7,7 +7,7 @@ A tool to automatically apply for jobs on LinkedIn utilizing Selenium and Tkinte
 ## Getting Started
 **Prerequisites & Installation**
 - Windows 10 or higher works best
-- Make sure you have Google Chrome installed (any version will work)
+- Make sure you have [Google Chrome](https://www.google.com/chrome/downloads/) installed (any version will work)
 
 **Download the LinkedIn Easy Apply Bot**
 
