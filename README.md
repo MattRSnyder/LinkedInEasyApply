@@ -18,7 +18,9 @@ DOWNLOAD Unzip the .zip file and start LinkedInEasyApplyBot.exe with a double cl
 The backend relies mainly on [Selenium](https://pypi.org/project/selenium/) to perform the job application automation with [Tkinter](https://wiki.python.org/moin/TkInter) used to build the GUI.
 
 **Is my LinkedIn account safe?**<br>
-Yes, LinkedIn does not ban you for automating job applications. Your account login info will only be stored locally on your computer in the .ini file so it will auto-login the next time you run the bot. As a general rule of thumb, you should always double check any app's source code from an unknown developer before running a .exe file which you can view above.
+Your account login info will only be stored locally on your computer in the .ini file so it will auto-login the next time you run the bot. As a general rule of thumb, you should always double check any app's source code from an unknown developer before running a .exe file which you can view above.
+
+LinkedIn has been known to ban accounts that use automation software for automatic messaging, but it is extremely rare to get banned for using automation to apply for jobs.
 
 **How do I know it's working?**<br>
 The app will show console output at the bottom while applying to jobs and it opens a Chrome browser to do the job application automation so you can see it applying in realtime.<br>
