@@ -23,7 +23,7 @@ Your account login info will only be stored locally on your computer in the .ini
 LinkedIn has been known to ban accounts that use automation software for automatic messaging, but it is extremely rare to get banned for using automation to apply for jobs.
 
 <br>**How do I know it's working?**<br><br>
-The app will show console output at the bottom while applying to jobs and it opens a Chrome browser to do the job application automation so you can see it applying in realtime.<br>
+The app will show console output at the bottom while applying to jobs and it opens a Chrome browser to do the job application automation so you can see it applying in realtime.<br><br>
 ![172074839-17d185c5-e53f-40db-9780-f76c71e2d8e5](https://user-images.githubusercontent.com/66499256/172075541-98645bda-d92b-4af7-bc1e-22d5a1fe975e.png)
 
 <br>**What do I do if I get an error?**<br><br>
